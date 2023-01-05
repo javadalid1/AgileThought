@@ -1,4 +1,3 @@
-**Truehome QA Automation repository.**
 
 You must clone the project in your local machine using git clone command.
 
