@@ -1,9 +1,0 @@
-testproject-python-sdk
-pytest
-selenium~=3.141.0
-selenium-tools
-msedge-selenium-tools
-Flask
-requests
-decorator
-psycopg2
